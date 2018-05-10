@@ -32,9 +32,9 @@ namespace Try1
             {
                 server = "localhost";
                 // port = "3306";
-                database = "testing";
+                database = "jjt";
                 uid = "root";
-                password = "root";
+                password = "akshay";
                 string connectionString;
                 connectionString = "SERVER=" + server + ";" + "DATABASE=" +
                 database + ";" + "UID=" + uid + ";" + "PASSWORD=" + password + ";";
